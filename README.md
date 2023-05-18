@@ -2,6 +2,9 @@
 
 Welcome to the Troop Formation Calculator, a web-based tool to calculate troop formations for battle scenarios.
 
+## Deployment
+https://vanosski.github.io/FormationCalculator/
+
 ## Description
 
 The Troop Formation Calculator is a web application that allows you to input details from an existing battle report and calculate the optimal troop formation. It takes into account the number of guards sent, total troops sent, and the number of non-guard damage troop types. The calculator utilizes the provided data to determine the recommended troop distribution for the best outcome.
