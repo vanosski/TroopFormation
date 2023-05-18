@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Troop Formation Calculator</title>
+
+  <link rel="stylesheet" type="text/css" href="styles.css">
+ 
+</head>
+<body>
+
+
+  <h1>Welcome to the Troop Formation Calculator</h1>
+  <br>
+  <p class="description">This calculator helps you determine the optimal troop formation based on a battle report.</p>
+  <p class="description">Please enter the details from an existing battle report where guards did not crash of yours or the enemy.</p>
+  <p class="description">If using cavalry, consider that cavalry charge damage may not apply equally to each enemy.</p>
+
+  <form id="formationForm">
+    <label for="name">Name:</label>
+    <input type="text" id="name" required>
+    <label for="totalTroops">Total Troops Sent:</label>
+    <input type="number" id="totalTroops" required>
+    <label for="numGuards">Number of Guards Sent:</label>
+    <input type="number" id="numGuards" required>
+    <label for="troopTypes">Number of Non-Guard Damage Troop Types:</label>
+    <input type="number" id="troopTypes" required>
+
+    <div id="troopTypeInputs"></div>
+
+    <button type="button" onclick="calculateFormation()">Calculate Formation</button>
+  </form>
+
+  <div id="result"></div>
+
+  <script src="script.js"></script>
+ 
+</body>
+</html>
