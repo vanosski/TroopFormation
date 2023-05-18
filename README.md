@@ -14,7 +14,7 @@ The Troop Formation Calculator is a web application that allows you to input det
 
 ## Installation
 
-1. Clone the repository: git clone 'https://github.com/vanosski/FormationCalculator.git`
+1. Clone the repository: 'git clone https://github.com/vanosski/FormationCalculator.git'
 2. Open the index.html file in your preferred web browser.
 
 ## Usage
