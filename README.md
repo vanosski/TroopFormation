@@ -29,10 +29,6 @@ The Troop Formation Calculator is a web application that allows you to input det
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 If you have any questions or want to get in touch, you can reach me at parikharyan30@gmail.com.
