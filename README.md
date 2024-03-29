@@ -3,7 +3,7 @@
 Welcome to the Troop Formation Calculator, a web-based tool to calculate troop formations for battle scenarios.
 
 ## Deployment
-https://vanosski.github.io/FormationCalculator/
+https://troop-formation.netlify.app/
 
 ## Description
 
