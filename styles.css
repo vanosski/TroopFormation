@@ -3,7 +3,9 @@
 
 
     body {
-      background-image:url("https://i.postimg.cc/d3dg0xqs/wallpaperflare-com-wallpaper.jpg" ) ;
+      background-image:
+      linear-gradient(rgba(0, 0, 0, 0.5),
+                       rgba(0, 0, 0, 0.5)), url("https://w0.peakpx.com/wallpaper/138/65/HD-wallpaper-dark-medieval-city-city-eerie-medieval-dark.jpg");
       background-repeat: no-repeat;
       background-size: cover;
       background-attachment: fixed;
