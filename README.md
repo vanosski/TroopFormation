@@ -140,10 +140,6 @@ troopformation
 
 ---
 
-## **Screenshots**
-_Add screenshots here (e.g., Login Page, Troop Formation Form, etc.)_
-
----
 
 ## **Future Improvements**
 - Implement **Axios** for API calls from the frontend.
