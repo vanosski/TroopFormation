@@ -5,7 +5,7 @@ TroopFormation is a **full-stack MERN application** that helps users calculate a
 ---
 
 ## **Live Demo and Repositories**  
-- **Live Demo**: [TroopFormation App](https://calm-gelato-42a5ea.netlify.app/)  
+- **Live Demo**: [TroopFormation App](https://lastlandtroopformationcalculator.vercel.app/) 
 - **Frontend Repository**: [TroopFormation Frontend](https://github.com/vanosski/troopformation-frontend)  
 - **Backend Repository**: [TroopFormation Backend](https://github.com/vanosski/troopformation-backend)  
 
